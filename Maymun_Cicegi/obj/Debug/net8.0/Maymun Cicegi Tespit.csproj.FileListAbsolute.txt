@@ -1,0 +1,33 @@
+D:\asp.netcore\Maymun_Cicegi\bin\Debug\net8.0\appsettings.Development.json
+D:\asp.netcore\Maymun_Cicegi\bin\Debug\net8.0\appsettings.json
+D:\asp.netcore\Maymun_Cicegi\bin\Debug\net8.0\Maymun Cicegi Tespit.staticwebassets.runtime.json
+D:\asp.netcore\Maymun_Cicegi\bin\Debug\net8.0\Maymun Cicegi Tespit.staticwebassets.endpoints.json
+D:\asp.netcore\Maymun_Cicegi\bin\Debug\net8.0\Maymun Cicegi Tespit.exe
+D:\asp.netcore\Maymun_Cicegi\bin\Debug\net8.0\Maymun Cicegi Tespit.deps.json
+D:\asp.netcore\Maymun_Cicegi\bin\Debug\net8.0\Maymun Cicegi Tespit.runtimeconfig.json
+D:\asp.netcore\Maymun_Cicegi\bin\Debug\net8.0\Maymun Cicegi Tespit.dll
+D:\asp.netcore\Maymun_Cicegi\bin\Debug\net8.0\Maymun Cicegi Tespit.pdb
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\Maymun Cicegi Tespit.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\Maymun Cicegi Tespit.AssemblyInfoInputs.cache
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\Maymun Cicegi Tespit.AssemblyInfo.cs
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\Maymun Cicegi Tespit.csproj.CoreCompileInputs.cache
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\Maymun Cicegi Tespit.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\Maymun Cicegi Tespit.RazorAssemblyInfo.cache
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\Maymun Cicegi Tespit.RazorAssemblyInfo.cs
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\scopedcss\bundle\Maymun Cicegi Tespit.styles.css
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\scopedcss\projectbundle\Maymun Cicegi Tespit.bundle.scp.css
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\staticwebassets.build.json
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\staticwebassets.development.json
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\Maymun Cicegi Tespit.dll
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\refint\Maymun Cicegi Tespit.dll
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\Maymun Cicegi Tespit.pdb
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\Maymun Cicegi Tespit.genruntimeconfig.cache
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\ref\Maymun Cicegi Tespit.dll
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\asp.netcore\Maymun_Cicegi\obj\Debug\net8.0\staticwebassets.build.json.cache

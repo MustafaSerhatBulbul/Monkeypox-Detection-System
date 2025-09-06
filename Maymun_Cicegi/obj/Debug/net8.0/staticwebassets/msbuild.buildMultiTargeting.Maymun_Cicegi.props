@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Maymun_Cicegi.props" />
+</Project>
